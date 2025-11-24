@@ -8,8 +8,9 @@ Development of a CNN-based image reconstruction model to achieve the goal of the
 * Initial Setup Studied relevant CNN coursework, performed Hyperparameter Tuning, and analyzed the base model architecture.
 
 * Core Strategy CutMix to blend image regions and adjust labels. This was done to weaken the model's reliance on local feature dependency, forcing it to learn the overall context of visual information and improve generalization.
+![cutmix](images/cutmix.png)
 # Result
-
+![Result](images/result.png)
 # Key Insights & Reflection
 * Growth Identified a lack of deep knowledge as the cause of the performance ceiling, which motivated me to proactively pursue advanced studies (e.g., Graduate-level Computer System Programming, Information Theory), building strong Learning Agility.
 
